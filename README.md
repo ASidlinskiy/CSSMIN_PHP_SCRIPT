@@ -6,7 +6,7 @@ This script will strip minify all css on the website.
 To use script simply link it in header.
 Inside cssmin.php you'll find include function that would be the place to link css needed to be minified.
 
-Ex:
+Ex:<br>
   /* your css files */<br>
   include('master.css');<br>
   include('typography.css');<br>
