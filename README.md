@@ -1,7 +1,7 @@
 CSSMIN_PHP_SCRIPT
 =================
 
-This script will strip minify all css on the website.
+This script will minify specified css files on the website.
 
 To use the script simply link it in header of the page.
 Inside cssmin.php you'll find include function that would be the place to link css needed to be minified.
